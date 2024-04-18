@@ -1,6 +1,6 @@
 # CodeSoft_Intership_Projects
 
-# SHELLY MAAN SINGH RAJPOOT GARG(KANHIYA ROMEO GARG)
+
 ## TASK 1
 #### MOVIE GENRE CLASSIFICATION
 Create a machine learning model that can predict the genre of a
